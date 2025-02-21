@@ -5,3 +5,5 @@ title: "Krystie Dickson"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![./images/10-3084-BUCITYIII-0292.jpg]{width="75%" fig-align-"center"}
