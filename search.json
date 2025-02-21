@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Krystie Dickson",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n![./images/10-3084-BUCITYIII-0292.jpg]{width=“75%” fig-align-“center”}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n![]{./images/10-3084-BUCITYIII-0292.jpg}{width=“75%” fig-align-“center”}"
   },
   {
     "objectID": "about.html",
